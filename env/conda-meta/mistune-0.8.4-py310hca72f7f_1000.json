@@ -1,0 +1,116 @@
+{
+  "build": "py310hca72f7f_1000",
+  "build_number": 1000,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "/Users/hameed/miniconda3/pkgs/mistune-0.8.4-py310hca72f7f_1000",
+  "files": [
+    "lib/python3.10/site-packages/__pycache__/mistune.cpython-310.pyc",
+    "lib/python3.10/site-packages/mistune-0.8.4.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/mistune-0.8.4.dist-info/LICENSE",
+    "lib/python3.10/site-packages/mistune-0.8.4.dist-info/METADATA",
+    "lib/python3.10/site-packages/mistune-0.8.4.dist-info/RECORD",
+    "lib/python3.10/site-packages/mistune-0.8.4.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/mistune-0.8.4.dist-info/WHEEL",
+    "lib/python3.10/site-packages/mistune-0.8.4.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/mistune-0.8.4.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/mistune.py"
+  ],
+  "fn": "mistune-0.8.4-py310hca72f7f_1000.conda",
+  "legacy_bz2_md5": "7cfba0a36a59a4f70c4e9fcc39fa8d5c",
+  "legacy_bz2_size": 55621,
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/hameed/miniconda3/pkgs/mistune-0.8.4-py310hca72f7f_1000",
+    "type": 1
+  },
+  "md5": "b70245a2104d8cdc498b7f0ede31c40b",
+  "name": "mistune",
+  "package_tarball_full_path": "/Users/hameed/miniconda3/pkgs/mistune-0.8.4-py310hca72f7f_1000.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.10/site-packages/__pycache__/mistune.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "9c09cbe395fd927f75373380edd337a8dee0ea40ff4656035a45190f94b3da17",
+        "sha256_in_prefix": "9c09cbe395fd927f75373380edd337a8dee0ea40ff4656035a45190f94b3da17",
+        "size_in_bytes": 33873
+      },
+      {
+        "_path": "lib/python3.10/site-packages/mistune-0.8.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.10/site-packages/mistune-0.8.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "0c5259c3dd0a7c46f4835221645f62a0638c9b9faa02af08676e8069e1ff964b",
+        "sha256_in_prefix": "0c5259c3dd0a7c46f4835221645f62a0638c9b9faa02af08676e8069e1ff964b",
+        "size_in_bytes": 1482
+      },
+      {
+        "_path": "lib/python3.10/site-packages/mistune-0.8.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "40d411e1b499a50ccc1ebb2ec324a7a8f6321d93abb1806a58348519332c240a",
+        "sha256_in_prefix": "40d411e1b499a50ccc1ebb2ec324a7a8f6321d93abb1806a58348519332c240a",
+        "size_in_bytes": 8473
+      },
+      {
+        "_path": "lib/python3.10/site-packages/mistune-0.8.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "bbc9ab1f27bafc147263c16f86f30e05a67fdaa0e47fb23b0f7ecd7d14746793",
+        "sha256_in_prefix": "bbc9ab1f27bafc147263c16f86f30e05a67fdaa0e47fb23b0f7ecd7d14746793",
+        "size_in_bytes": 770
+      },
+      {
+        "_path": "lib/python3.10/site-packages/mistune-0.8.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/mistune-0.8.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "sha256_in_prefix": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.10/site-packages/mistune-0.8.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "2a2bf40ec656a40f61a220eb4832db1bc0f77ccacc81350ae009aa09c0881560",
+        "sha256_in_prefix": "2a2bf40ec656a40f61a220eb4832db1bc0f77ccacc81350ae009aa09c0881560",
+        "size_in_bytes": 82
+      },
+      {
+        "_path": "lib/python3.10/site-packages/mistune-0.8.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "b6325333ae6401dc0a009da603bebdb670c661895f47ca6a46ca1b2a35447dc8",
+        "sha256_in_prefix": "b6325333ae6401dc0a009da603bebdb670c661895f47ca6a46ca1b2a35447dc8",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "lib/python3.10/site-packages/mistune.py",
+        "path_type": "hardlink",
+        "sha256": "bc783737ee6f2be689d6a77dabd603bfe514fd54df9fb2273902600383da804c",
+        "sha256_in_prefix": "bc783737ee6f2be689d6a77dabd603bfe514fd54df9fb2273902600383da804c",
+        "size_in_bytes": 36516
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "mistune==0.8.4=py310hca72f7f_1000",
+  "sha256": "35db80828d3db7bea90b9df5d44b7a675c041fc9da3f9b4e887375db8b59fc9e",
+  "size": 55774,
+  "subdir": "osx-64",
+  "timestamp": 1642534192191,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/mistune-0.8.4-py310hca72f7f_1000.conda",
+  "version": "0.8.4"
+}
